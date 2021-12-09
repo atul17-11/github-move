@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jB/f9mFpD4dhi6pT8FCz0PFL3KifqU/viX2Vz7464wVzrYdxcftTl5dY+df+O5bvZexxFzXGUKm2hz5Qoha6g==",
+  "success": true,
+  "projectFilePath": "e:\\Hexaware\\projects\\MVC\\devopswebapp\\devopswebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
